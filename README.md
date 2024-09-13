@@ -2,7 +2,8 @@
 **Privacy-Preserving Balancer for Payment Systems in the Trade Credit Market**
 This project implements a secure system of balancing payments and sharing information among SMEs in the trade credit system using advanced cryptographic techniques. The project dives into different scenarios within the credit situations and optimizes them using privacy-preserving methods. It focuses on protecting the sensitive data of companies as well as making financial analyses on encrypted data using tools like federated learning, proactive secret sharing, and homomorphic encryption. 
 
-#File Overview 
+# File Overview
+
 **1. Symmetric_key.ipynb**
 Implemented symmetric key encryption using the Fernet encryption method to protect the sensitive financial data of companies. A key-encryption key (KEK) has been generated to encrypt the symmetric key, to add an additional level of security.
 We have extracted data from the financials of AALI and then converted them into a data frame for the experiment. 
