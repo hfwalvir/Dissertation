@@ -4,8 +4,10 @@
 This project implements a secure system of balancing payments and sharing information among SMEs in the trade credit system using advanced cryptographic techniques. The project dives into different scenarios within the credit situations and optimizes them using privacy-preserving methods. It focuses on protecting the sensitive data of companies as well as making financial analyses on encrypted data using tools like federated learning, proactive secret sharing, and homomorphic encryption. 
 
 # Datasets Links : 
-Business Directory.csv -> https://data.liverpool.nsw.gov.au/explore/dataset/business-directory/api/
+Business directory.csv -> https://data.liverpool.nsw.gov.au/explore/dataset/business-directory/api/
+
 Invoices.csv -> https://www.kaggle.com/datasets/cankatsrc/invoices
+
 combined_financial_data_idx.csv -> https://www.kaggle.com/datasets/kalkulasi/financial-statement-data-idx-2020-2023
 
 # File Overview
