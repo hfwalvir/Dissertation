@@ -1,7 +1,7 @@
 # Dissertation 
-**Privacy-Preserving Balancer for Payment Systems in the Trade Credit Market**
+**Revolutionizing SME Financial Security: Cutting-Edge Encryption, Secret Sharing, and AI Solutions**
 
-This project implements a secure system of balancing payments and sharing information among SMEs in the trade credit system using advanced cryptographic techniques. The project dives into different scenarios within the credit situations and optimizes them using privacy-preserving methods. It focuses on protecting the sensitive data of companies as well as making financial analyses on encrypted data using tools like federated learning, proactive secret sharing, and homomorphic encryption. 
+This project implements a secure system of sharing information among SMEs in the trade credit system using advanced cryptographic techniques. The project dives into different scenarios within the credit situations and optimizes them using privacy-preserving methods. It focuses on protecting the sensitive data of companies as well as making financial analyses on encrypted data using tools like federated learning, proactive secret sharing, and homomorphic encryption. 
 
 # Datasets Links : 
 Business directory.csv -> https://data.liverpool.nsw.gov.au/explore/dataset/business-directory/api/
